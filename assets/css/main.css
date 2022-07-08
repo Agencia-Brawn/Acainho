@@ -1619,7 +1619,7 @@ section {
 .footer {
   font-size: 14px;
   background-color: #1f1f24;
-  padding: 50px 0;
+  padding: 24px 0;
   color: rgba(255, 255, 255, 0.7);
 }
 
@@ -1689,8 +1689,8 @@ section {
 
 .footer .copyright {
   text-align: center;
-  padding-top: 30px;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 0px;
+  /* border-top: 1px solid rgba(255, 255, 255, 0.1); */
 }
 
 .footer .credits {
